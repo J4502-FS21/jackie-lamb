@@ -13,3 +13,7 @@ a[href] {
   font-weight: 700;
   color: #FFFFFF;
 }
+
+a:hover {
+  color: #187107
+}
