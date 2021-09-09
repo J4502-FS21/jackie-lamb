@@ -6,3 +6,10 @@ body {
 h1 h2{
   color: #FFFFFF;
 }
+
+ul {
+  list-style-type:none;}
+
+a {
+  text-decoration: none;
+}
