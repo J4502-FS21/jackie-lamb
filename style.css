@@ -25,3 +25,10 @@ nav {
   background-color: #81949D;
   font-family: 'Raleway', sans-serif;
 }
+
+img {
+  max-height: 150px;
+  max-width: 200px;
+  width: 120px;
+  height: 120px;
+}
