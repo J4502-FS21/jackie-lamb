@@ -20,3 +20,8 @@ a[href] {
 a:hover {
   color: #187107
 }
+
+nav {
+  background-color: #81949D;
+  font-family: 'Raleway', sans-serif;
+}
