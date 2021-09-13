@@ -22,7 +22,7 @@ a:hover {
 }
 
 nav {
-  background-color: #81949D;
+  border-style: double;
   font-family: 'Raleway', sans-serif;
 }
 
