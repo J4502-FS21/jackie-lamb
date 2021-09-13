@@ -23,7 +23,7 @@ a:hover {
 
 nav {
   border-style: double;
-  border-radius: 250px;
+  border-spacing: 15px;
   font-family: 'Raleway', sans-serif;
 }
 
