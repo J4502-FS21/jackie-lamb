@@ -1,5 +1,5 @@
 body {
-  background: #4C6B8E;
+  background: #b8d1eb;
   text-align: center;
   font-family: 'Josefin Slab', serif;
 }
@@ -27,11 +27,11 @@ nav {
 }
 
 img {
-  max-height: 300px;
-  max-width: 300px;
   width: 250px;
-  height: 250px;
+  height:316px;
 }
+
+
 
 h1 {
   font-family: 'Kalam', cursive;
