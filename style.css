@@ -27,10 +27,11 @@ nav {
 }
 
 img {
-  width: 250px;
-  height:316px;
+  width: 500px;
+  height:632px;
+  float: left;
+  padding: 50px;
 }
-
 
 
 h1 {
