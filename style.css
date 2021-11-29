@@ -21,7 +21,9 @@ a:hover {
 
 nav {
   border-style: double;
+  border-width: thick;
   font-family: 'Raleway', sans-serif;
+  display: inline-block;
 }
 
 img {
