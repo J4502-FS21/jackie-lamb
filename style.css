@@ -1,3 +1,6 @@
+
+
+
 body {
   background: #b8d1eb;
   text-align: center;
@@ -5,20 +8,15 @@ body {
 }
 
 
-
-ul {
-  list-style-type:none;
-}
-
 a[href] {
   text-decoration: none;
   font-style: italic;
   font-weight: 700;
-  color: #FFFFFF;
+  color: #344146;
 }
 
 a:hover {
-  color: #00D6FC
+  color: #3F00BE;
 }
 
 nav {
@@ -35,4 +33,16 @@ img {
 
 h1 {
   font-family: 'Kalam', cursive;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.navigation > div {
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
 }
