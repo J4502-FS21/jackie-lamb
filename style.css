@@ -26,18 +26,20 @@ nav {
   display: inline-block;
 }
 
-img {
+#homepic img {
   width: 500px;
   height:632px;
   float: left;
   padding: 50px;
 }
-
+ hr {
+   border-top: 5px solid #000000;
+   margin: 35px;
+ }
 
 h1 {
   font-family: 'Kalam', cursive;
 }
-
 .navigation {
   display: flex;
   flex-direction: row;
