@@ -83,8 +83,6 @@ h1 {
   width: 465px;
   height: 327px;
   padding: 30px;
-  min-width: 20%;
-  min-height: inherit;
   padding-bottom: 5px;
 }
 
@@ -116,4 +114,8 @@ h1 {
     max-height:316px;
     float: none;
     padding: 50px; }
+  .portpics > img {
+    max-width: inherit;
+    max-height: inherit;
+  }
 }
