@@ -83,6 +83,8 @@ h1 {
   width: 465px;
   height: 327px;
   padding: 30px;
+  min-width: 20%;
+  min-height: inherit;
   padding-bottom: 5px;
 }
 
@@ -113,5 +115,5 @@ h1 {
     max-width: 250px;
     max-height:316px;
     float: none;
-    padding: 50px;
+    padding: 50px; }
 }
