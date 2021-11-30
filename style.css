@@ -27,8 +27,8 @@ nav {
 }
 
 #homepic img {
-  width: 500px;
-  height:632px;
+  max-width: 500px;
+  max-height:632px;
   float: left;
   padding: 50px;
 }
@@ -74,6 +74,7 @@ h1 {
 
 .portpics {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
 }
@@ -88,6 +89,20 @@ h1 {
 #momspiece img {
   width: 540px;
   height: 430px;
+  padding: 30px;
+  padding-bottom: 5px;
+}
+
+#zackspiece img {
+  width: 459px;
+  height: 594px;
+  padding: 30px;
+  padding-bottom: 5px;
+}
+
+#graphic1 img {
+  width: 375px;
+  height: 938px;
   padding: 30px;
   padding-bottom: 5px;
 }
