@@ -114,8 +114,28 @@ h1 {
     max-height:316px;
     float: none;
     padding: 50px; }
-  .portpics > img {
-    max-width: inherit;
-    max-height: inherit;
-  }
+    #lovers img {
+      width: 233px;
+      height: 164px;
+      padding: 10px;
+      padding-bottom: 5px;
+    }
+    #momspiece img {
+      width: 270px;
+      height: 215px;
+      padding: 10px;
+      padding-bottom: 5px;
+    }
+    #zackspiece img {
+      width: 230px;
+      height: 297px;
+      padding: 10px;
+      padding-bottom: 5px;
+    }
+    #graphic1 img {
+      width: 188px;
+      height: 469px;
+      padding: 10px;
+      padding-bottom: 5px;
+    }
 }
