@@ -106,3 +106,12 @@ h1 {
   padding: 30px;
   padding-bottom: 5px;
 }
+
+
+@media screen and (max-width: 800px) {
+  #homepic img {
+    max-width: 250px;
+    max-height:316px;
+    float: none;
+    padding: 50px;
+}
